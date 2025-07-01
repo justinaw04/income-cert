@@ -8,4 +8,4 @@ Pillow==10.3.0
 fitz==0.0.1.dev2
 PyMuPDF==1.23.25
 pyngrok==6.1.0
-airtable-python-wrapper==0.15.4
+airtable-python-wrapper==0.15.3
