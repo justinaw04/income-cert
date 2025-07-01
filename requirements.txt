@@ -1,0 +1,11 @@
+Flask==2.3.3
+gunicorn==22.0.0
+boxsdk==3.9.1
+openai==1.30.1
+python-docx==1.1.0
+pytesseract==0.3.10
+Pillow==10.3.0
+fitz==0.0.1.dev2
+PyMuPDF==1.23.25
+pyngrok==6.1.0
+airtable-python-wrapper==0.15.4
